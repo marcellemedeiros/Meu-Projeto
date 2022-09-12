@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Qwitcher+Grypen&family=Tiro+Bangla&display=swap");
+
+* {
+  padding: 15px;
+  font-family: "Qwitcher Grypen", cursive;
+  font-family: "Tiro Bangla", serif;
+}
+.sobremim {
+  text-align: justify;
+  border: 1px solid black;
+}
+.interessesehobbies {
+  text-align: justify;
+  border: 1px solid black;
+}
+.menu {
+  background-color: gray;
+  text-align: center;
+}
+
+.menu a {
+  color: white;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+
+.marcelle {
+  text-align: center;
+  margin: 0 0 0 0;
+  border: 1px solid black;
+}
+
+body {
+  background-color: antiquewhite;
+  background-image: url("pexels-gradienta-7130499.jpg");
+  background-size: 3500px;
+}
+
+.contatos {
+  text-align: center;
+  border: 1px solid black;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+.minhafoto {
+  border-radius: 300px;
+}
+
+.meu_h1 {
+  margin: 0 0 0 0;
+}
+
+.meu_h1 h1 {
+  /* font-family: ; */
+  font-size: 50px;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+}
+
+.meu_h1 p {
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+}
+
+.divmaior {
+  display: flex;
+  justify-content: center;
+}
+
+.formulario {
+  border: solid black 3px;
+  width: 300px;
+  text-align: center;
+}
